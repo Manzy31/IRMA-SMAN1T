@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>IRMA SMAN1T</title>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0; padding: 0; box-sizing: border-box;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      font-family: 'Outfit', sans-serif;
-      background: linear-gradient(135deg, #e0f2f1, #ffffff);
-      color: #2e7d32;
-      line-height: 1.6;
-    }
-
-    header {
-      background: url('https://files.catbox.moe/k39krh.jpg') no-repeat center/cover;
-      height: 320px;
-      position: relative;
       display: flex;
       flex-direction: column;
       justify-content: center;
